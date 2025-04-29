@@ -1,0 +1,13 @@
+.btn-yours {
+  background-color: #FAF6E9;
+  border-radius: 32px;
+  color: #A0C878;
+  padding: 16px;
+}
+
+.btn-yours:hover {
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.7);
+  background-color: #DDEB9D;
+  color: #A0C878;
+  transition-duration: 1s;
+}

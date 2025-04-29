@@ -1,0 +1,14 @@
+.footer {
+  background-color: rgb(252, 205, 142);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 200px;
+  width: 100%;
+  background-position: 50% 50%;
+  background-size: cover;
+  color: white;
+  margin-top: 24px;
+  margin-bottom: 0;
+}
